@@ -616,3 +616,9 @@
 
 /* Widget row subtitle when departures for a bookmark are not loaded yet. Tapping opens the stop in the app. */
 "widget.tap_for_more_information" = "اضغط لمزيد من المعلومات";
+
+/* Authentication error summary. */
+"error_report.summary.authentication" = "مطلوب المصادقة";
+
+/* Authentication error explanation. */
+"error_report.explanation.authentication" = "يجب المصادقة للاستمرار";

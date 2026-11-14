@@ -616,3 +616,9 @@
 
 /* Widget row subtitle when departures for a bookmark are not loaded yet. Tapping opens the stop in the app. */
 "widget.tap_for_more_information" = "I-tap para sa higit pang impormasyon";
+
+/* Authentication error summary. */
+"error_report.summary.authentication" = "Kailangang mag-autenticate";
+
+/* Authentication error explanation. */
+"error_report.explanation.authentication" = "Kailangang pumautentica para lumipat";

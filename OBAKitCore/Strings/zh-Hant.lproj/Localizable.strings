@@ -616,3 +616,9 @@
 
 /* Widget row subtitle when departures for a bookmark are not loaded yet. Tapping opens the stop in the app. */
 "widget.tap_for_more_information" = "點一下以取得更多資訊";
+
+/* Authentication error summary. */
+"error_report.summary.authentication" = "需要驗證";
+
+/* Authentication error explanation. */
+"error_report.explanation.authentication" = "需要進行身份驗證";
